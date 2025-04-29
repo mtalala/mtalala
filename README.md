@@ -9,7 +9,7 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: My head explodes when I think too much — but I keep doing it anyway!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1699F9&width=435&lines=Hi!+I'm+a+front-end+developer!;I+like+UX%2FUI+and+animations." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1699F9&width=435&lines=Hi!+I'm+a+full-stack+developer!;I+like+UX%2FUI+and+animations." />
 
 ## Stats
 
