@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on my personal portfolio website.
-- 🌱 I’m currently learning Parallax effects, lazy loading, and on-demand content loading.
-- 👯 I’m looking to collaborate on animations built with TypeScript.
-- 🤔 I’m looking for help with APIs, context, hooks, services, and utils.
+- 🔭 I’m currently working on finding new ideas, inspirations, and projects.
+- 🌱 I’m currently learning SwiftUI terminology — things like modifiers, properties, and all those little magic details.
+- 👯 I’m looking to collaborate on animations built with TypeScript and apps using SwiftUI.
+- 🤔 I’m looking for help with Authentication — like building login systems, user accounts, and secure access.
 - 💬 Ask me about front-end, back-end, or anything related to programming.
 - 📫 How to reach me: feel free to reach out via GitHub!
 - 😄 Pronouns: she/her
