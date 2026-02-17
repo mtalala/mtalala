@@ -11,10 +11,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1699F9&width=435&lines=Hi!+I'm+a+developer!;I+love+coding!" />
 
-## Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtalala&layout=compact&theme=transparent)
-
 ## Summary Cards
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mtalala&theme=transparent)
