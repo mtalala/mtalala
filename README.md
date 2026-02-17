@@ -13,10 +13,10 @@
 
 ## Summary Cards
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mtalala&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mtalala&theme=swift)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mtalala&theme=tokyonight) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mtalala&theme=tokyonight&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mtalala&theme=swift) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mtalala&theme=swift&utcOffset=8)
 
 ## GitHub Activity Graph
 
-[![Millie's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mtalala&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Millie's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mtalala&theme=default)](https://github.com/ashutosh00710/github-readme-activity-graph)
