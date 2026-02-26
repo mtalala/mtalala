@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on finding new ideas, inspirations, and projects.
 - 🌱 I’m currently learning Advanced SwiftUI Topics.
-- 👯 I’m looking to collaborate on animations built with TypeScript and apps using SwiftUI.
+- 👯 I’m looking to collaborate on websites using React and apps using SwiftUI.
 - 🤔 I’m looking for help with Authentication — like building login systems, user accounts, and secure access.
 - 💬 Ask me about front-end, back-end, or anything related to programming.
 - 📫 How to reach me: feel free to reach out via GitHub!
