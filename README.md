@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on finding new ideas, inspirations, and projects.
 - 🌱 I’m currently learning Advanced Swift Topics.
 - 👯 I’m looking to collaborate on Java and Swift projects.
-- 🤔 I’m looking for help with Security and Encryption.
+- 🤔 I’m looking for help with expanding my knowledge of Swift.
 - 💬 Ask me about front-end, back-end, or anything related to programming.
 - 📫 How to reach me: feel free to reach out via GitHub!
 - 😄 Pronouns: she/her
